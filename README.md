@@ -1,3 +1,4 @@
-# Data Structures and Algorithm in Python
+# Data Structures & Algorithms in Python
 
-Workbook to practice implementation of data structures and algorithms in Python.
+# Reference:
+Udacity.com
